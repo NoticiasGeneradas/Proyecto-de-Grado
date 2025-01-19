@@ -46,7 +46,7 @@ python src/generate.py --seed "El equipo logró una victoria"
 -Relevancia: Incorporación efectiva de datos históricos y simulados en las predicciones.
 -Resultados Clave:
 
-## Generación de texto con un 85% de precisión narrativa.
+## Generación de texto 
 -Integración exitosa de datos históricos, como posiciones en liga y capacidades de estadios.
 ## Tecnologías Utilizadas
 -Python: Para el preprocesamiento, entrenamiento y generación.
